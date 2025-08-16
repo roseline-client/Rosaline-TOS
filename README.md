@@ -24,18 +24,22 @@ Violations may result in **permanent license termination**.
 - **All sales are final.** No refunds will be issued under any circumstances.  
 - **Chargebacks or disputes** will result in license suspension.  
 
-## License Termination
+## License Termination & Account Suspension
 Your license may be revoked for:  
 - Violating these Terms & Conditions.  
 - Harassment, abuse, or misconduct.  
 - Tampering with or attempting to manipulate the client.  
-- Spreading false/misleading claims about Rosaline.  
+- Spreading false or misleading claims about Rosaline.  
 - Participation in harmful or illicit activities.  
+
+Rosaline also reserves the right to **suspend or revoke your account access at any time, for any reason, with or without notice**.  
 
 Bans may be **permanent**. Appeals are **not guaranteed**.  
 
 ## Terms Updates
-These Terms may be updated at any time. Continued use of Rosaline = acceptance of changes.  
+- These Terms may be updated at any time without prior notice.  
+- Continued use of Rosaline signifies your **acceptance of the latest version**.  
+- You are required to comply with the most recent Terms & Conditions at all times.  
 
 ---
 
@@ -44,8 +48,8 @@ These Terms may be updated at any time. Continued use of Rosaline = acceptance o
 If accepted into the Media Program:  
 
 ## Upload Requirements
-- You must post at least **1 video within 14 days** of each update.  
-- Failure to do so = **media access removed**.  
+- You must post at least **one video within 14 days** of each update.  
+- Failure to do so will result in **removal from the Media Program**.  
 
 ## Description Requirements
 - Every video must include the **official Rosaline Discord invite**.  
@@ -54,11 +58,11 @@ If accepted into the Media Program:
 ## Disallowed Content
 The following videos will not count:  
 - Re-uploads.  
-- Shorts or videos under **1 minute**.  
+- Shorts or videos under **one minute**.  
 - Low-effort edits, off-topic content, or unrelated clickbait.  
 
 ## Removal & Penalties
-- Breaking these rules = **media removal**.  
+- Breaking these rules will result in **removal from the Media Program**.  
 - Severe or repeated violations may also result in **license termination**.  
 
 ---
