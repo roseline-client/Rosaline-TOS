@@ -1,5 +1,5 @@
 # Roseline Terms & Conditions
-Developed by **QuickDaffy** & **Allocatori**
+Developed by **chaarlottte** & **Allocatori**
 
 By using **Roseline** (the “Client”), you agree to the following:
 
