@@ -1,14 +1,14 @@
-# Rosaline Terms & Conditions
+# Roseline Terms & Conditions
 Developed by **QuickDaffy** & **Allocatori**
 
-By using **Rosaline** (the “Client”), you agree to the following:
+By using **Roseline** (the “Client”), you agree to the following:
 
 ## License
 - You receive a **non-transferable license** for **one device**, bound to your **HWID**.  
 - **Sharing, reselling, or redistributing** the license or client files is strictly prohibited.  
 
 ## Authentication
-- Access to Rosaline is tied to your **HWID**.  
+- Access to Roseline is tied to your **HWID**.  
 - **Spoofing** or significant hardware changes may prevent access.  
 - HWID reset requests are reviewed on a **case-by-case basis** and are **not guaranteed**.  
 
@@ -29,21 +29,21 @@ Your license may be revoked for:
 - Violating these Terms & Conditions.  
 - Harassment, abuse, or misconduct.  
 - Tampering with or attempting to manipulate the client.  
-- Spreading false or misleading claims about Rosaline.  
+- Spreading false or misleading claims about Roseline.  
 - Participation in harmful or illicit activities.  
 
-Rosaline also reserves the right to **suspend or revoke your account access at any time, for any reason, with or without notice**.  
+Roseline also reserves the right to **suspend or revoke your account access at any time, for any reason, with or without notice**.  
 
 Bans may be **permanent**. Appeals are **not guaranteed**.  
 
 ## Terms Updates
 - These Terms may be updated at any time without prior notice.  
-- Continued use of Rosaline signifies your **acceptance of the latest version**.  
+- Continued use of Roseline signifies your **acceptance of the latest version**.  
 - You are required to comply with the most recent Terms & Conditions at all times.  
 
 ---
 
-# Rosaline Media Program Terms
+# Roseline Media Program Terms
 
 If accepted into the Media Program:  
 
@@ -52,7 +52,7 @@ If accepted into the Media Program:
 - Failure to do so will result in **removal from the Media Program**.  
 
 ## Description Requirements
-- Every video must include the **official Rosaline Discord invite**.  
+- Every video must include the **official Roseline Discord invite**.  
 - Videos missing this requirement will **not be counted**.  
 
 ## Disallowed Content
@@ -70,4 +70,4 @@ The following videos will not count:
 # Data Collection
 - We only collect your **HWID** for licensing and protection.  
 - We **do not** collect IP addresses or sell personal data.  
-- If you do not agree to this policy, do not use Rosaline.  
+- If you do not agree to this policy, do not use Roseline.  
